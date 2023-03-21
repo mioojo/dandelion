@@ -23,7 +23,7 @@ module Dandelion
 	system("mv ./dandelion.desktop /usr/share/xsessions")
 	system("chmod +x /usr/share/dandelion/dandelion.sh")
 	system("sudo mv ./background.jpg /usr/share/dandelion/")
-	puts "Dandelion installed with sucess!
+	puts "Dandelion installed with sucess!"
       end
     end
   end
